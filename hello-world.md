@@ -1,7 +1,7 @@
 # Hello, world!
 
 ## About Me
-- **Name:** Kunmyung Jand
+- **Name:** Kunmyung Jang
 - **Major:** Public Administration
 
 ## A Piece of Music I Love
